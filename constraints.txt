@@ -221,7 +221,7 @@ bitarray==2.8.2
 black==23.9.1
 blinker==1.6.3
 boto3==1.33.3
-botocore==1.31.17
+botocore==1.33.3
 cachelib==0.9.0
 cachetools==5.3.1
 cassandra-driver==3.28.0
@@ -260,7 +260,7 @@ db-dtypes==1.1.1
 decorator==5.1.1
 defusedxml==0.7.1
 deprecation==2.1.0
-dill==0.3.1.1
+dill==0.3.7
 distlib==0.3.7
 distributed==2023.9.3
 dnspython==2.4.2
@@ -563,7 +563,7 @@ rich==13.6.0
 rpds-py==0.10.4
 rsa==4.9
 ruff==0.0.292
-s3transfer==0.6.2
+s3transfer==0.8.0
 scramp==1.4.4
 scrapbook==0.5.0
 semver==3.0.1
